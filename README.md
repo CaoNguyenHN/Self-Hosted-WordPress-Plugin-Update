@@ -19,7 +19,7 @@ require_once( 'class-checker.php' );
 		$updater = new Plugin_Updater_Checker(
 			__FILE__,
 			$license_key,
-			'http://thuthuatketoan.com/update-server/check-update.php'
+			'https://yoursite.com/update-server/check-update.php'
 		);
 	}
 ```
