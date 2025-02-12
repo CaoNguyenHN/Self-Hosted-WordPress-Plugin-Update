@@ -35,7 +35,7 @@ class Plugin_Updater_Checker {
     /**
      * @var bool
      */
-    private bool $cache_enabled = false;
+    private bool $cache_enabled = true;
     
     /**
      * @var int Cache duration in seconds
